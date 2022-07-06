@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Earvin John Ando (@ejando03)
 - 👀 I’m interested in programming, anime, and video games
-- 🌱 I’m currently learning front-end frameworks like vue, react, and svelte
-- 💞️ I’m looking to collaborate on open projects
+- 🌱 I’m currently learning front-end frameworks like vue and react(soon)
+- 💞️ I’m looking to collaborate on open projects and open to accept work
 - 📫 You can reach on through email - earvinando@gmail.com
