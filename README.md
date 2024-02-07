@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Earvin John Ando (@ejando03)
+- 👋 Hi, I’m Earvin Ando (@ejando03)
 - 👀 I’m interested in programming, anime, and video games
-- 🌱 I’m currently learning front-end frameworks like vue and react(soon)
-- 💞️ I’m looking to collaborate on open projects and open to accept work
+- 🌱 Tech Skills - React, Vue, Typescript, Node, C#, SQL
 - 📫 You can reach on through email - earvinando@gmail.com
